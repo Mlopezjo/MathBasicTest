@@ -1,0 +1,13 @@
+/home/mlopezjo/Workspace/ApprendreLesMaths/obj/Debug/netcoreapp3.1/ApprendreLesMaths.csprojAssemblyReference.cache
+/home/mlopezjo/Workspace/ApprendreLesMaths/obj/Debug/netcoreapp3.1/ApprendreLesMaths.AssemblyInfoInputs.cache
+/home/mlopezjo/Workspace/ApprendreLesMaths/obj/Debug/netcoreapp3.1/ApprendreLesMaths.AssemblyInfo.cs
+/home/mlopezjo/Workspace/ApprendreLesMaths/obj/Debug/netcoreapp3.1/ApprendreLesMaths.csproj.CoreCompileInputs.cache
+/home/mlopezjo/Workspace/ApprendreLesMaths/bin/Debug/netcoreapp3.1/ApprendreLesMaths
+/home/mlopezjo/Workspace/ApprendreLesMaths/bin/Debug/netcoreapp3.1/ApprendreLesMaths.deps.json
+/home/mlopezjo/Workspace/ApprendreLesMaths/bin/Debug/netcoreapp3.1/ApprendreLesMaths.runtimeconfig.json
+/home/mlopezjo/Workspace/ApprendreLesMaths/bin/Debug/netcoreapp3.1/ApprendreLesMaths.runtimeconfig.dev.json
+/home/mlopezjo/Workspace/ApprendreLesMaths/bin/Debug/netcoreapp3.1/ApprendreLesMaths.dll
+/home/mlopezjo/Workspace/ApprendreLesMaths/bin/Debug/netcoreapp3.1/ApprendreLesMaths.pdb
+/home/mlopezjo/Workspace/ApprendreLesMaths/obj/Debug/netcoreapp3.1/ApprendreLesMaths.dll
+/home/mlopezjo/Workspace/ApprendreLesMaths/obj/Debug/netcoreapp3.1/ApprendreLesMaths.pdb
+/home/mlopezjo/Workspace/ApprendreLesMaths/obj/Debug/netcoreapp3.1/ApprendreLesMaths.genruntimeconfig.cache
